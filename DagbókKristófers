@@ -1,5 +1,5 @@
 Dagur 1. 14.11.2016
-Sett up GitHub og plan --> configure-a Windows server við router...
+Í dag var sett up GitHub --> Við downloaduðum windows server 2012. Við pinguðum saman virtual vélarnar svo við báðir getum fengið aðgang og unnið á remote access. Planið er að búa til local user, gefa honum reikning(account) með lykilorði og gera honum kleift að hafa aðgang að server-num. 
 
 Dagur 2
 
