@@ -3,7 +3,7 @@ Dagur 1. 14.11.2016
 Planið er að búa til local user, gefa honum reikning(account) með lykilorði og gera honum kleift að hafa aðgang að server-num. Configure-a windows server 2012.
 
 Dagur 2
-Við tengjumst Windows servernum í gegnum VirtualBox. Þurftum að download windows servernum aftur af því við komumst ekki í sömu tölvur og fyrr. Allow-uðum í gegnum Firewall svo ég gæti loggað líka inná remote access.
+Við tengjumst Windows servernum í gegnum VirtualBox og þarf alltaf að vera opið svo við getum loggað inná remote access. Þurftum að download windows servernum aftur af því við komumst ekki í sömu tölvur og fyrr. Allow-uðum í gegnum Firewall svo ég gæti loggað líka inná remote access.
 Ætlum að creata local user og gefa honum password og þar af leiðandi aðgang að server-num.
 Bjuggum til user "orri" (ég) og gáfum honum password ((Pa$$word) sem er commonly notað í WIN áföngum.) í computer management 
 
